@@ -2,7 +2,7 @@
 
 Este projeto é uma interface de **landing page responsiva**, desenvolvida com **HTML5** e **CSS3**, que simula uma aplicação de compras via celular. Ele foi criado com foco em responsividade, design moderno e boas práticas de desenvolvimento front-end.
 
-![Preview da interface](./assets/Illustration-3-3.png)
+![Preview da interface](https://github.com/brunooluiiz/easy-shopping/blob/main/assets/desktop.jpg?raw=true)
 
 ---
 
