@@ -32,6 +32,3 @@ A imagem mostra uma pessoa interagindo com um smartphone, enquanto a interface e
 - Efeitos visuais com `hover` e `active` em botões e links
 
 ---
-
-## 📁 Estrutura de Pastas
-
